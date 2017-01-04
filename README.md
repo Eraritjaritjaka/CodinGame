@@ -1,1 +1,2 @@
-It's the solution of CodinGame.
+It's the solution of CodinGame:
+https://www.codingame.com
